@@ -1,0 +1,13 @@
+fastapi
+
+uvicorn[standard]
+
+pandas
+
+google-generativeai
+
+duckdb
+
+python-multipart
+
+openpyxl
